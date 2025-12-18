@@ -1,4 +1,7 @@
-# Cambio hacia master
-
+# Entorno virtual
 env/
-test.py
+.env
+
+# Python
+__pycache__/
+*.pyc
